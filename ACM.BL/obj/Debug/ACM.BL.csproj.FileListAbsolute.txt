@@ -1,0 +1,9 @@
+C:\Users\husey\source\repos\ACM\ACM.BL\bin\Debug\ACM.BL.dll
+C:\Users\husey\source\repos\ACM\ACM.BL\bin\Debug\ACM.BL.pdb
+C:\Users\husey\source\repos\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.AssemblyReference.cache
+C:\Users\husey\source\repos\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
+C:\Users\husey\source\repos\ACM\ACM.BL\obj\Debug\ACM.BL.dll
+C:\Users\husey\source\repos\ACM\ACM.BL\obj\Debug\ACM.BL.pdb
+C:\Users\husey\source\repos\ACM\ACM.BL\bin\Debug\Acme.Common.dll
+C:\Users\husey\source\repos\ACM\ACM.BL\bin\Debug\Acme.Common.pdb
+C:\Users\husey\source\repos\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CopyComplete
